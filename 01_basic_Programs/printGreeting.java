@@ -7,6 +7,7 @@ public class printGreeting {
     Scanner in = new Scanner(System.in);
     String name = in.next();
     System.out.println("Hello!" + name);
+    in.close();
   }
 
 }
