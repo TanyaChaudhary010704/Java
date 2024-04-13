@@ -2,7 +2,7 @@
   
 import java.util.*;
 
-public class a1 {
+public class isEven {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     int num = in.nextInt();
