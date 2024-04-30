@@ -1,5 +1,5 @@
 //Calculate Depreciation of Value
-import java.util.*;
+
 public class depreciation {
   public static void main(String[] args)
   {

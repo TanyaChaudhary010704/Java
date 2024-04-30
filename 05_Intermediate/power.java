@@ -1,5 +1,4 @@
 //power in java 
-import java.util.*;
 public class power {
   public static void main(String[] args) {
     double a = 30;

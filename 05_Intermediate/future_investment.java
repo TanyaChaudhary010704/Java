@@ -1,5 +1,5 @@
 //Future Investment Value
-import java.util.*;
+
 public class future_investment {
   public static void main(String[] args) {
     //Present value

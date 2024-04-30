@@ -1,5 +1,5 @@
 //Calculate average batting score
-import java.util.*;
+
 public class battingAverage {
   static int averageRuns(int runs, int matches,int notout) {
     // Calculate number of

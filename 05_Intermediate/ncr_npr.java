@@ -13,10 +13,11 @@ public class ncr_npr {
     int r = sc.nextInt();
 
     // Driver code
-    System.out.println("nCr :"+nCr(n, r));
-    System.out.println("nPr :"+nCr(n, r)* fact(r));
-
+    System.out.println("nCr :" + nCr(n, r));
+    System.out.println("nPr :" + nCr(n, r) * fact(r));
+    sc.close();
   }
+  
   static long nCr(int n, int r) {
     return fact(n) / (fact(r) *
         fact(n - r));
